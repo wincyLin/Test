@@ -1,0 +1,5 @@
+@CHARSET "UTF-8";
+.card-footer a span:hover{
+	 border-bottom: 2px solid #48C2F9;
+	
+}

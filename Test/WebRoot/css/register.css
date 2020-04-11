@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+#text1{
+	
+	padding-top:20px;
+	font:20px 微软雅黑;
+	color:#c26b0a;
+	text-align:center;
+	padding-bottom:20px;
+	
+}
+
+#form1{
+	margin-top:50px;
+	text-align:center
+	
+}
+
+input{
+	width:200px;
+	height:30px;
+	boder:1px solid #9c9c9d;
+}
